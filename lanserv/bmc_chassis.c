@@ -62,6 +62,7 @@ static extcmd_map_t boot_map[] = {
     { 2, "default" },
     { 5, "cdrom" },
     { 6, "bios" },
+    { 15, "floppy" },
     { 0, NULL }
 };
 
